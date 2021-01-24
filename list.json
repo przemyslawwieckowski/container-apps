@@ -215,7 +215,7 @@
         "displayName": "Jenkins",
         "name": "jenkins",
         "version": "2.263.2",
-        "location": "https://hub.docker.com/r/jenkins/",
+        "location": "https://hub.docker.com/_/jenkins/",
         "type": "docker"
     },
     {
